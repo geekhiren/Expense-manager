@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "620826072274",
+    "firebase_url": "https://ems-07.firebaseio.com",
+    "project_id": "ems-07",
+    "storage_bucket": "ems-07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620826072274:android:1b633e7d6d72fa86dc890b",
+        "android_client_info": {
+          "package_name": "com.infocube.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620826072274-99jtq5snq2sub97laigpk2kvob0crdj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg43daBf67jKZ5lj8FwQqBTWWVHs8DM80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620826072274-99jtq5snq2sub97laigpk2kvob0crdj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620826072274:android:91434a9b1c2463bddc890b",
+        "android_client_info": {
+          "package_name": "pl.cyfrogen.budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620826072274-6je07jk994gd481aveti3uj35e96ormk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.cyfrogen.budget",
+            "certificate_hash": "fbfa1f13cfef98a9346e4f32434bf5bb97584a89"
+          }
+        },
+        {
+          "client_id": "620826072274-99jtq5snq2sub97laigpk2kvob0crdj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg43daBf67jKZ5lj8FwQqBTWWVHs8DM80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620826072274-99jtq5snq2sub97laigpk2kvob0crdj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
